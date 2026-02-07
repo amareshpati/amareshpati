@@ -3,24 +3,45 @@
 <h1 align="center">Hey 👋, I'm Amaresh</h1>
 <h3 align="center">Full Stack Developer | React Native • Express.js • IoT</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/amareshpati/amareshpati/blob/main/coding.gif"/>
+---
+
+<details open>
+<summary><h3>🚀 About Me</h3></summary>
+
+<table>
+<tr>
+<td width="65%">
+
+I’m a **Full Stack Developer from India** who builds products, not just features.
+
+- 📱 Strong with **React Native** (architecture, performance, abstractions)
+- 🌐 Backend APIs using **Express.js**
+- 🔌 Experience with **IoT systems & device communication**
+- 🧠 I learn fast using **first-principles thinking**
+- ⚡ I can code **with or without AI agents** — fundamentals > tools 😄
+
+I care about **clean code**, **long-term maintainability**,  
+and solving **real production problems**.
+
+</td>
+<td width="35%" align="right">
+
+<img 
+  src="https://github.com/amareshpati/amareshpati/blob/main/coding.gif"
+  width="260"
+/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
 
 ---
 
-### 🚀 About Me
-
-I’m a **Full Stack Developer from India** who enjoys building things that actually get used.
-
-- 📱 Mobile apps with **React Native**
-- 🌐 Backend APIs with **Express.js**
-- 🔌 Hands-on experience with **IoT integrations**
-- ✍️ I write about real-world dev problems (not tutorial copy-paste)
-
-I care about **clean architecture**, **maintainable code**, and **developer experience**.
-
----
-
-### 🧠 What I Work With
+<details>
+<summary><h3>🧠 Tech Stack</h3></summary>
 
 **Frontend**
 - React Native
@@ -32,39 +53,48 @@ I care about **clean architecture**, **maintainable code**, and **developer expe
 - Node.js
 - Express.js
 - REST APIs
-- MongoDB / SQL (basics)
+- MongoDB / SQL (working knowledge)
 
-**Other Stuff**
+**Other**
 - IoT basics (device ↔ server communication)
 - Git & GitHub
 - Performance optimization
-- Debugging production issues 😄
+- Debugging production issues under pressure
+
+</details>
 
 ---
 
-### ✍️ I Write Tech Blogs
+<details>
+<summary><h3>✍️ Writing & Knowledge Sharing</h3></summary>
 
-I share learnings from real projects, mistakes, and refactors.
+I write about **real problems I face while building apps**, not recycled tutorials.
 
 📖 **Medium:**  
 👉 https://amareshpati.medium.com/
 
-📝 Topics I write about:
+**Topics I usually cover**
 - React Native internals & patterns  
 - Library deprecations & alternatives  
 - Base components & abstractions  
 - Performance & maintainability  
 
+</details>
+
 ---
 
-### 🌍 Portfolio & Projects
+<details>
+<summary><h3>🌍 Portfolio & Projects</h3></summary>
 
 - 👨‍💻 **Portfolio:** https://devvloper.in  
-- 🧪 Personal & client projects are pinned below ⬇️
+- 📌 Check pinned repositories below for real-world work ⬇️  
+
+</details>
 
 ---
 
-### 📫 Let’s Connect
+<details open>
+<summary><h3>📫 Connect With Me</h3></summary>
 
 <p align="left">
 <a href="https://linkedin.com/in/amareshpati" target="_blank">
@@ -75,8 +105,14 @@ I share learnings from real projects, mistakes, and refactors.
 </a>
 </p>
 
+</details>
+
 ---
 
-### ⚡ Fun Fact
+<details open>
+<summary><h3>⚡ Fun Fact</h3></summary>
 
-Most of my learning came from **breaking things in production** and fixing them fast.
+Most of my growth came from **breaking things in production**,  
+then fixing them fast — and documenting the lesson.
+
+</details>
