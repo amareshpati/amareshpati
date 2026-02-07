@@ -66,6 +66,18 @@ and solving **real production problems**.
 ---
 
 <details>
+<summary><h3>📚 Currently Learning</h3></summary>
+
+I’m intentionally levelling up on fundamentals that scale with experience.
+
+- ☁️ **AWS** — core services, cloud basics, and production-ready deployment
+- 🐹 **Go (Golang)** — backend services, concurrency, and clean system design
+
+</details>
+
+---
+
+<details>
 <summary><h3>✍️ Writing & Knowledge Sharing</h3></summary>
 
 I write about **real problems I face while building apps**, not recycled tutorials.
@@ -78,6 +90,7 @@ I write about **real problems I face while building apps**, not recycled tutoria
 - Library deprecations & alternatives  
 - Base components & abstractions  
 - Performance & maintainability  
+
 
 </details>
 
