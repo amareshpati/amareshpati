@@ -1,4 +1,4 @@
-![logo](https://github.com/ptiamaresh13/ptiamaresh13/blob/main/Linkedin%20(1).png)
+![logo](https://github.com/ptiamaresh13/ptiamaresh13/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Amaresh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <!-- <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"> -->
