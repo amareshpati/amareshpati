@@ -1,5 +1,4 @@
 <img src="https://github.com/ptiamaresh13/ptiamaresh13/blob/main/banner.jpg" />
-
 <h1 align="center">Hey 👋, I'm Amaresh</h1>
 <h3 align="center">Full Stack Developer | React Native • Express.js • IoT</h3>
 
@@ -7,12 +6,11 @@
 
 <details open>
 <summary><h3>🚀 About Me</h3></summary>
-
 <table>
 <tr>
 <td width="65%">
 
-I’m a **Full Stack Developer from India** who builds products, not just features.
+I'm a **Full Stack Developer from India** who builds products, not just features.
 
 - 📱 Strong with **React Native** (architecture, performance, abstractions)
 - 🌐 Backend APIs using **Express.js**
@@ -25,18 +23,14 @@ and solving **real production problems**.
 
 </td>
 <td width="35%" align="right">
-
 <img 
   src="https://github.com/amareshpati/amareshpati/blob/main/coding.gif"
   width="260"
 />
-
 </td>
 </tr>
 </table>
-
 </details>
-
 
 ---
 
@@ -68,7 +62,7 @@ and solving **real production problems**.
 <details>
 <summary><h3>📚 Currently Learning</h3></summary>
 
-I’m intentionally levelling up on fundamentals that scale with experience.
+I'm intentionally levelling up on fundamentals that scale with experience.
 
 - ☁️ **AWS** — core services, cloud basics, and production-ready deployment
 - 🐹 **Go (Golang)** — backend services, concurrency, and clean system design
@@ -90,7 +84,6 @@ I write about **real problems I face while building apps**, not recycled tutoria
 - Library deprecations & alternatives  
 - Base components & abstractions  
 - Performance & maintainability  
-
 
 </details>
 
@@ -117,6 +110,10 @@ I write about **real problems I face while building apps**, not recycled tutoria
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </p>
+
+<a href="https://www.buymeacoffee.com/amareshpati" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+</a>
 
 </details>
 
